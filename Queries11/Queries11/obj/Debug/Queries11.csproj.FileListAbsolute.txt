@@ -1,0 +1,8 @@
+c:\users\personal\documents\visual studio 2012\Projects\Queries11\Queries11\bin\Debug\Queries11.exe
+c:\users\personal\documents\visual studio 2012\Projects\Queries11\Queries11\bin\Debug\Queries11.pdb
+c:\users\personal\documents\visual studio 2012\Projects\Queries11\Queries11\obj\Debug\Queries11.csprojResolveAssemblyReference.cache
+c:\users\personal\documents\visual studio 2012\Projects\Queries11\Queries11\obj\Debug\Queries11.Form1.resources
+c:\users\personal\documents\visual studio 2012\Projects\Queries11\Queries11\obj\Debug\Queries11.Properties.Resources.resources
+c:\users\personal\documents\visual studio 2012\Projects\Queries11\Queries11\obj\Debug\Queries11.csproj.GenerateResource.Cache
+c:\users\personal\documents\visual studio 2012\Projects\Queries11\Queries11\obj\Debug\Queries11.exe
+c:\users\personal\documents\visual studio 2012\Projects\Queries11\Queries11\obj\Debug\Queries11.pdb
